@@ -228,6 +228,11 @@
     background: rgba(0, 255, 0, 0.3);
     border: 1px solid rgba(0, 255, 0, 90%);
   }
+
+  .message.info {
+    background: rgba(115, 228, 115, 0.3);
+    border: 1px solid rgba(0, 255, 0, 90%);
+  }
   
   .message.error {
     background: rgba(255, 0, 0, 0.3);
